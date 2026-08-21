@@ -9,3 +9,7 @@
 - [x] Provide responsive navigation and mobile layout behavior.
 - [x] Add a content-model unit test and run the full test and type-check suite.
 - [x] Verify desktop and mobile visual rendering, then create the delivery checkpoint.
+- [x] Add smooth hover motion and initial loading states to storyline clusters and recommended video cards.
+- [x] Add an interactive county-level Kenya election-risk map with regional storyline details.
+- [x] Add a persistent saved-story watchlist for recommended videos and story clusters.
+- [x] Test and visually verify the enhanced interactions on desktop and mobile before checkpointing.
